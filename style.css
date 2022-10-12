@@ -20,7 +20,7 @@ html, body {
 }
 
 .vapor {
-  border-radius: 12px;
+  border-radius: 1rem;
   border-style: solid;
   border-color: #bb9af7;
 
@@ -125,5 +125,10 @@ a:hover {
 #Date {
 
   font-family: 'Bebas Neue';
-  font-size: 40px;
+  font-size: 2.5rem;
+}
+#Time {
+
+  font-family: 'Bebas Neue';
+  font-size: 2.3rem;
 }
