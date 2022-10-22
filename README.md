@@ -15,7 +15,7 @@ in line `21` on `index.html` you'll be able to find the `<img>` tag where you ca
 ### URLs
 You can change, remove, or add new links if you'd like by changing the `href` on the `<a></a>` tag.
 <br> **Example:** <br>
-**line 35:** ```<li><a href="https://github.com/">github</a></li>``` <br >can be changed to <br> **line 45:** ```<li><a href="https://yoururl.com/">your url</a></li>```
+**line 35:** ```<li><a href="https://github.com/">github</a></li>``` <br >can be changed to <br> **line 35:** ```<li><a href="https://yoururl.com/">your url</a></li>```
 
 ### Categories
 
